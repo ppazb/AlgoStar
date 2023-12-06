@@ -18,15 +18,26 @@ Corrector: **Alejo Villores**
 
 ## Aplicación
 
-La versión más reciente de la aplicación puede encontrarse en la pestaña [releases](https://github.com/fiuba/algo3_proyecto_base_tp2/releases/latest) y ejecutarse en Linux, Windows o Mac de esta forma:
+### Requerimientos y correspondientes links:
+- [JDK 8 o superior](https://www.java.com/es/)
+- [Maven - Build automation tool](https://maven.apache.org/)
+- [Mockito - Framework para mocks de UnitTest](https://site.mockito.org/)
+- [JavaFX](https://openjfx.io/)
 
-```bash
-$ java -jar <archivo.jar>
-```
+Los diagramas de clase y de secuencia se realizaron con [PlantUML](https://plantuml.com/).
+
+Para ejecutar el juego se debe descargar el repositorio y sus respectivas dependencias, y ejecturar el main. 
 
 ## Desarrollo
+El desarrollo se realizó utilizando [IntelliJ IDEA](https://www.jetbrains.com/idea/) y [Eclipse](https://eclipseide.org/) como IDE.
 
-Aquellos que deseen colaborar con el proyecto pueden consultar la [guía de desarrollo](./docs/Desarrollo.md).
+- Para detalles sobre decisiones de diseño y modelado del juego referir al archivo "TP2 Algos III grupo 3 informe.pdf". Alli se encuentra una descripcion detallada de los componentes del juego, el funcionamiento y cómo fueron modeladas las clases, con sus respectivos diagramas de clase y diagramas de secuencia. 
+- Para ver la consigna del trabajo práctico referir al archivo "[TP2] [2022 2C] ENUNCIADO.pdf" donde se detallan los requisitos pedidos por los profesores.
+
+![pantalla inicio](https://github.com/ppazb/AlgoStar/assets/72047847/308aed2a-5087-4736-9e50-df5c8e12ac21)
+![como se ve el juego](https://github.com/ppazb/AlgoStar/assets/72047847/7943601d-0fae-467f-b077-091bc1ea8b41)
+![juego en progreso](https://github.com/ppazb/AlgoStar/assets/72047847/330119be-4b96-43a6-8775-4cfca4042fc4)
+
 
 ## Licencia
 
