@@ -32,7 +32,7 @@ Para ejecutar el juego se debe descargar el repositorio y sus respectivas depend
 El desarrollo se realizó utilizando [IntelliJ IDEA](https://www.jetbrains.com/idea/) y [Eclipse](https://eclipseide.org/) como IDE.
 
 - Para detalles sobre decisiones de diseño y modelado del juego referir al archivo "TP2 Algos III grupo 3 informe.pdf". Alli se encuentra una descripcion detallada de los componentes del juego, el funcionamiento y cómo fueron modeladas las clases, con sus respectivos diagramas de clase y diagramas de secuencia. 
-- Para ver la consigna del trabajo práctico referir al archivo "[TP2] [2022 2C] ENUNCIADO.pdf" donde se detallan los requisitos pedidos por los profesores.
+- Para ver la consigna del trabajo práctico referir al archivo "[TP2] [2022 2C] ENUNCIADO.pdf" donde se detallan los requisitos pedidos por los profesores. El proyecto se realizo en el transcurso de aproximadamente 6 semanas.
 
 ![pantalla inicio](https://github.com/ppazb/AlgoStar/assets/72047847/308aed2a-5087-4736-9e50-df5c8e12ac21)
 ![como se ve el juego](https://github.com/ppazb/AlgoStar/assets/72047847/7943601d-0fae-467f-b077-091bc1ea8b41)
